@@ -1,0 +1,10 @@
+@charset "utf-8";
+.dive_1   {
+    width: 899px;
+    height: 1000px;
+}
+.bottom   {
+    width: 899px;
+    height: 20px;
+    background-color: #000000;
+}
